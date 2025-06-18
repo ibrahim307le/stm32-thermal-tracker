@@ -21,6 +21,3 @@ Python script (`thermal_display.py`) shows real-time heatmap.
 1. Flash STM32 code from `STM32_Firmware/`
 2. Connect USB and run `thermal_display.py`
 3. Adjust COM port in script
-
-## License
-MIT License
